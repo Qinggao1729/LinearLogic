@@ -4,6 +4,7 @@ public import LinearLogic.CoherenceSpace.Basic
 public import LinearLogic.CoherenceSpace.StableFunction
 public import LinearLogic.ELL.Propositional
 public import LinearLogic.LC.Propositional
+public import LinearLogic.LL.CutElimination
 public import LinearLogic.LL.FirstOrder.Calculus
 public import LinearLogic.LL.FirstOrder.ClassicalEmbedding
 public import LinearLogic.LL.FirstOrder.Formula
